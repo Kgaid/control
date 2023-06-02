@@ -5,7 +5,7 @@ This program implements the functionality to parse HTML pages. You can run the p
 2. Run script with parameters
 3. Run script from terminal with input from the console of the url once the program asks for it.
 <hr> 
-The link for a requirements file you can f ind here: [...]
+The link for a requirements file you can f ind here: [https://github.com/Kgaid/control/blob/master/requirements.txt]
 <hr>
     
 The program performs the following tasks:
