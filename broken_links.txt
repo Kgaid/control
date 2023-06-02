@@ -1,0 +1,15 @@
+http://www.google.com//http://www.google.es/imghp?hl=es&tab=wi
+http://www.google.com//http://maps.google.es/maps?hl=es&tab=wl
+http://www.google.com//https://play.google.com/?hl=es&tab=w8
+http://www.google.com//https://www.youtube.com/?tab=w1
+http://www.google.com//https://news.google.com/?tab=wn
+http://www.google.com//https://mail.google.com/mail/?tab=wm
+http://www.google.com//https://drive.google.com/?tab=wo
+http://www.google.com//https://www.google.es/intl/es/about/products?tab=wh
+http://www.google.com//http://www.google.es/history/optout?hl=es
+http://www.google.com//https://accounts.google.com/ServiceLogin?hl=es&passive=true&continue=http://www.google.com/&ec=GAZAAQ
+http://www.google.com//http://www.google.com/setprefs?sig=0_YSBC3pon58bCdLhAosNVfbN2s6Q%3D&amp;hl=ca&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiCv6ODh6T_AhVwkokEHQ84ADkQ2ZgBCAU
+http://www.google.com//http://www.google.com/setprefs?sig=0_YSBC3pon58bCdLhAosNVfbN2s6Q%3D&amp;hl=gl&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiCv6ODh6T_AhVwkokEHQ84ADkQ2ZgBCAY
+http://www.google.com//http://www.google.com/setprefs?sig=0_YSBC3pon58bCdLhAosNVfbN2s6Q%3D&amp;hl=eu&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiCv6ODh6T_AhVwkokEHQ84ADkQ2ZgBCAc
+http://www.google.com//http://www.google.es/intl/es/services/
+http://www.google.com//http://www.google.com/setprefdomain?prefdom=ES&amp;prev=http://www.google.es/&amp;sig=647aea9aK_I1O8eMka_xxd8YsDWL720YQ3goo%3D

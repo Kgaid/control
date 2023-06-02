@@ -1,0 +1,6 @@
+http://www.google.com//preferences?hl=es
+http://www.google.com//advanced_search?hl=es&amp;authuser=0
+http://www.google.com//intl/es/ads/
+http://www.google.com//intl/es/about.html
+http://www.google.com//intl/es/policies/privacy/
+http://www.google.com//intl/es/policies/terms/
